@@ -49057,7 +49057,7 @@ A.Km.prototype={
 F(a){return A.uV(new A.a37(),null,null,null,t.cb)}}
 A.a37.prototype={
 $1(a){var s=null
-return new A.uw(A.ajG(A.cO(A.a([A.ack("images/alphamedicallogo.png",s,s),B.b0,new A.tL(new A.a34(a),"Home",0,s),new A.tL(new A.a35(a),"About Us",1,s),new A.tL(new A.a36(),"Contact Us",1,s)],t.p),B.u,B.X,B.G)),s)},
+return new A.uw(A.ajG(A.cO(A.a([A.ack("images/alphamedicallogo.png",s,s),B.b0,new A.tL(new A.a34(a),"Home",0,s),new A.tL(new A.a35(a),"About Us",1,s),new A.tL(new A.a36(),"Contact Us",2,s)],t.p),B.u,B.X,B.G)),s)},
 $S:325}
 A.a34.prototype={
 $0(){var s=this.a,r=s.ax
