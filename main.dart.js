@@ -48974,7 +48974,7 @@ A.Kg.prototype={
 F(a){return B.QK}}
 A.Kj.prototype={
 F(a){var s=null
-return A.aHp(A.azI(s,s,!0,s,s,s,B.A,B.A,A.ad3("images/alphamedicallogo.png",s,45),s),B.Sa,B.m5,!0,s)}}
+return A.aHp(A.azI(s,s,!0,s,s,s,B.A,B.A,A.ad3("images/alphalogo.png",s,45),s),B.Sa,B.m5,!0,s)}}
 A.Ki.prototype={
 F(a){var s,r,q,p=null,o="Poppins",n=t.w,m=A.b1(a,B.T,n).w
 n=A.b1(a,B.T,n).w
@@ -49011,7 +49011,7 @@ A.Ky.prototype={
 F(a){return A.iS(new A.a3V(),null,null,null,t.cb)},
 gBB(){return B.Sm}}
 A.a3V.prototype={
-$1(a){var s=A.ad3("images/alphamedicallogo.png",B.bT,null)
+$1(a){var s=A.ad3("images/alphalogosmall.png",B.bT,null)
 return A.azI(A.a([A.azJ(0,new A.a3S(a),"Home",B.b0),A.azJ(1,new A.a3T(a),"About Us",B.b0),A.azJ(2,new A.a3U(),"Feedback",B.b0)],t.p),B.A,!0,0,s,150,B.A,B.A,B.QF,150)},
 $S:428}
 A.a3S.prototype={
@@ -49068,7 +49068,7 @@ A.Kz.prototype={
 F(a){return A.iS(new A.a41(),null,null,null,t.cb)}}
 A.a41.prototype={
 $1(a){var s=null
-return new A.uM(A.Dz(A.cF(A.a([A.ad3("images/alphamedicallogo.png",s,s),B.cj,new A.u0(new A.a3Z(a),"Home",0,s),new A.u0(new A.a4_(a),"About Us",1,s),new A.u0(new A.a40(),"Feedback",2,s)],t.p),B.v,B.H,B.E)),s)},
+return new A.uM(A.Dz(A.cF(A.a([A.ad3("images/alphalogo.png",s,s),B.cj,new A.u0(new A.a3Z(a),"Home",0,s),new A.u0(new A.a4_(a),"About Us",1,s),new A.u0(new A.a40(),"Feedback",2,s)],t.p),B.v,B.H,B.E)),s)},
 $S:429}
 A.a3Z.prototype={
 $0(){var s=this.a,r=s.ax
@@ -49182,7 +49182,7 @@ A.NG.prototype={
 F(a){return B.QL}}
 A.NJ.prototype={
 F(a){var s=null
-return A.aHp(A.azI(s,s,!0,s,s,s,B.A,B.A,A.ad3("images/alphamedicallogo.png",s,45),s),B.S8,B.m5,!0,B.AT)}}
+return A.aHp(A.azI(s,s,!0,s,s,s,B.A,B.A,A.ad3("images/alphalogosmall.png",s,45),s),B.S8,B.m5,!0,B.AT)}}
 A.Kr.prototype={
 F(a){return A.iS(new A.a3J(this,a),null,null,null,t.J9)}}
 A.a3J.prototype={
